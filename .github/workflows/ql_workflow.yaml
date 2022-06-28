@@ -23,5 +23,5 @@ jobs:
           path: "**/cucumber-report.json"
 
 
-git config --global user.email "s19216@pjwstk.edu.pl" 
-git config --global user.name "S-19216"
+#git config --global user.email "s19216@pjwstk.edu.pl"
+#git config --global user.name "S-19216"
